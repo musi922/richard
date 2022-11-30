@@ -1,0 +1,342 @@
+body{
+    
+    border: 1px solid #d5d5d2;
+     
+    width: 1300px;
+    height: 100opx;
+    background: linear-gradient(to right,
+    blue 0%,
+    blue 50%,
+    lightgrey 50%,
+    lightgrey 80%
+
+    );
+
+    
+}
+header{
+    background: linear-gradient(to right,
+    lightgrey 0%,
+    lightgrey 50%,
+    white 50%,
+    white 80%
+
+    );
+    border: 1px solid #d5d5d2; 
+    width: 1100px;
+    
+    border-radius: 80px;
+    margin-left: 100px;
+    left: 100px;
+    margin-top: 100px;
+    height: 800px;
+    
+    
+}
+.sara{
+    position: absolute;
+    top: 60%;
+    left: 55%;
+    transform: translate(-50%,-50%);
+    border: 1px solid #d5d5d2;
+    border-radius: 30px;
+    width: 320px;
+    margin-top: 60px;
+    padding: 45px;
+    height: 600px;
+    background-color: rgba(173, 213, 230, 0.082);
+    opacity: .9;
+}
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+    top: 10%;
+}
+.sara input{
+    width: 300px;
+    height: 25px;
+    background: white;
+    color: white;
+    border: 1px solid #d5d5d2;
+    padding: 5px;
+    background-color: white;
+    
+    
+   
+    
+
+}
+.suru input{
+    width: 10px;
+    height: 8px;
+    background-color: white;
+    
+
+}
+
+.button{
+    background-color: blue;
+    color: white;
+    
+  }
+.btn{
+        width: 300px;
+        color: white;
+        height: 40px;
+        
+        border: 1px  solid transparent;
+        
+        text-decoration: none;
+        transition: 0.6s ease;
+        background: blue;
+        
+    
+ }
+ .pie chart{
+   
+ }
+ .buttons{
+    border: 1px solid white;
+    width: 380px;
+    height: 200px;
+    top: 80px;
+    margin-top: 80px;
+    left: 100px;
+    margin-left: 100px;
+    background: white;
+    
+
+ }
+ .buttons h8{
+    position: absolute;
+    color: blue;
+    
+    left: 25%;
+    top: 40%;
+    
+ }
+ .buttons .pix{
+    border: 1px solid #d5d5d2;
+    position: absolute;
+    top: 48%;
+    left: 28%;
+    width: 120px;
+    height: 60px;
+ }
+ .buttons .bug{
+    border: 1px solid #d5d5d2;
+    position: absolute;
+    top: 56%;
+    left: 28%;
+    width: 120px;
+    height: 60px;
+ }
+ .buttons .c{
+    
+    position: absolute;
+    top: 57%;
+    left: 32%;
+    
+ }
+ .buttons .stat{
+    
+    position: absolute;
+    top: 40%;
+    left: 14%;
+    font-weight: bold;
+    color: black;
+    
+ }
+ .buttons .dot{
+    
+    position: absolute;
+    top: 48%;
+    left: 31%;
+    color: blueviolet;
+    
+   
+ }
+ .buttons .ric{
+    
+    position: absolute;
+    top: 48%;
+    left: 14%;
+    color: blueviolet;
+   
+ }
+ .batn{
+    background-color: lightgrey;
+    color: blue;
+    top: 90px;
+    margin-top: 160px;
+    border: 1px transparent;
+   
+
+ }
+ .bton{
+    background-color: lightgreen;
+    color: green;
+    border: 1px transparent;
+   
+
+ }
+ .btns{
+    background-color: lightcoral;
+    color: rgb(250, 49, 49);
+    border: 1px transparent;
+   
+
+ }
+
+ .sac{
+    text-align: center;
+    
+
+ }
+ 
+ 
+ .icons{
+    height: 45px;
+    
+    
+    }
+.icons ul{
+    list-style-type: none;
+    margin: 10px 0 10px 0;
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+    }
+.icons ul li{
+    display: block;
+    margin-left: 5px;
+}
+.ras{
+    color: black;
+    border: 1px solid #d5d5d2;
+    background-color: white;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    display: inline-block;
+    margin-left: 40px;
+    left: 40px;
+    font-size: 45px; 
+}
+.ras li{
+    text-align: center;
+    margin-left: 40px;
+    left: 40px;
+ }
+.rar{
+    color: blue;
+    border: 1px solid #d5d5d2;
+    background-color: white;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    font-size: 45px;
+    display: inline-block;
+    margin-left: 30px;
+    left: 30px;
+}
+.rar li{
+    text-align: center;
+    margin-left: 30px;
+    left: 30px;
+ }
+ .wrap{
+    color: rgba(169, 85, 25, 0.518);
+    border: 1px solid #d5d5d2;
+    background-color: white;
+    width: 55px;
+    height: 50px;
+    text-align: center;
+    font-size: 45px;
+    display: inline-block;
+    margin-left: 50px;
+    left: 50px;
+ }
+ .wrap li{
+    text-align: center;
+    margin-left: 50px;
+    left: 50px;
+ }
+ .mine{
+    margin-left: 1000px;
+    margin-top: 10px;
+    top: 10px;
+ }
+ .musime{
+    border: 1px solid #d5d5d2;
+    width: 320px;
+    margin-left: 60px;
+    left: 40px;
+    top: 300px;
+    margin-top: 99px;
+    border: 1px solid #d5d5d2; 
+    
+    border-radius: 80px;
+    margin-left: 100px;
+    left: 100px;
+    margin-top: 100px;
+ }
+ .divider{
+    width: 60px;
+    height: 4px;
+    background-color: blue;
+    display: inline-block;
+ }
+ .divide{
+    width: 60px;
+    height: 4px;
+    background-color: grey;
+    display: inline-block;
+ }
+ .divides{
+    width: 60px;
+    height: 4px;
+    background-color: grey;
+    display: inline-block;
+ }
+ .men{
+    font-size: 25px;
+    position: bottom;
+    left: 50px;
+    margin-left: 50px;
+    top: 200px;
+    margin-top: 200px;
+    
+ }
+.container{
+    border: 1px solid #d5d5d2;
+    left: 110px;
+    margin-left: 100px;
+    top: 600px;
+    margin-top: 60px0px;
+ }
+ .wow{
+    position: top left;
+    left: 23px;
+    margin-left: 23px;
+    top: 50px;
+    margin-top: 50px;
+    
+ }
+ h7{
+    color: blueviolet;
+    top: 60px;
+    margin-top: 60px;
+ }
+ .pix ul{
+    color: blueviolet;
+    bottom: 60px;
+    margin-bottom: 70px;
+    margin-left: 14px;
+    left: 16px;
+
+ }
+
+ 
